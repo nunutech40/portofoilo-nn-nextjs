@@ -7,13 +7,14 @@ export default function Home() {
         <h1 className="text-3xl md:text-4xl font-semibold text-gray-800 dark:text-gray-100 mb-2">
           Nunu Nugraha
         </h1>
+        <p className="text-lg text-gray-600 dark:text-gray-300 prose-lg">
+          Saya adalah seorang Mobile Developer yang telah terbiasa membuat applikasi dengan menggunakan native Android Kotlin dan native iOS Swift dan Flutter.
+        </p>
         <p className="text-xl text-gray-600 dark:text-gray-300 mb-8">Mobile Developer</p>
         <h2 className="text-3xl md:text-4xl font-semibold text-gray-800 dark:text-gray-100 mb-8">
           Welcome to My Portfolio
         </h2>
-        <p className="text-lg text-gray-600 dark:text-gray-300 prose-lg">
-          Hello! I'm passionate about web development and design. Here you can find some of my latest projects and learn more about me.
-        </p>
+       
         <div className="mt-10">
           <a
             href="#contact"
