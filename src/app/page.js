@@ -12,7 +12,7 @@ export default function Home() {
         </p>
         <p className="text-xl text-gray-600 dark:text-gray-300 mb-8">Mobile Developer</p>
         <h2 className="text-3xl md:text-4xl font-semibold text-gray-800 dark:text-gray-100 mb-8">
-          Welcome to My Portfolio
+          Welcome to My Portfolio -  Ada update dari beda Branch
         </h2>
        
         <div className="mt-10">
